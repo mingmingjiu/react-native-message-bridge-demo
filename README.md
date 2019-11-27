@@ -1,2 +1,1 @@
-# react-native-message-bridge-demo
-react-native javascrip call C++ function or value
+这里给出了react-native android如何向global注入属性，如何自定义cxxModule供js调用c++ 方法。[更多说明可以查看这里](https://github.com/mingmingjiu/xBlog/blob/master/react-native/react-native%E8%87%AA%E5%AE%9A%E4%B9%89global%E5%B1%9E%E6%80%A7%E5%92%8CcxxModule.md)
